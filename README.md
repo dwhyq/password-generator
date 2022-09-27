@@ -1,1 +1,1 @@
-# password-generator
+# Javascript password-generator that also allows you to copy and clear the password that was generated.
