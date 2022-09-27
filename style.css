@@ -79,7 +79,7 @@ button {
 @media (max-width: 675px) {
     .wrapper {
         width: fit-content;
-        height: 35vh;
+        height: 37vh;
         margin: 10rem auto;
         border: 1px solid black;
         border-radius: 10px;
@@ -99,6 +99,6 @@ button {
         flex-direction: column;
         align-items: center;
         gap: 1rem;
-        margin: 2.5rem auto;
+        margin: 1.5rem auto;
     }
 }
